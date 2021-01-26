@@ -1,0 +1,1 @@
+This project was created as part of the "landing-page" task on the freecodecamp website. Used: HTML5, CSS3.
